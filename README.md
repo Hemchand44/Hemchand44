@@ -64,6 +64,6 @@
 
 ## 📬 Connect me-  
 💌 **Email**: [prajapatihemchand3@gmail.com](mailto:prajapatihemchand3@gmail.com)  
-🔗 **LinkedIn**: [Hemchand](www.linkedin.com/in/hemchand-prajapati70)  
+🔗 **LinkedIn**: [Hemchand](www.linkedin.com/in/hemchand-prajapati70/)  
 💻 **GitHub**: [@Hemchand44](https://github.com/Hemchand44)  
 
