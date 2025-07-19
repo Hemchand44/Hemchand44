@@ -3,7 +3,11 @@
 # 💫 About Me:
 🎓  passionate about building full-stack web applications with modern technologies<br>🚀 I enjoy working on real-world projects that solve everyday problems
 
-
+# 🔧 Tools & Tech I use:
+- Frontend: React.js, Redux, Tailwind CSS, Bootstrap
+- Backend: Node.js, Express.js, MongoDB, Mongoose
+- Tools: Git, GitHub, Postman, VS Code, Netlify, Vercel
+- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hemchand) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajapatihemchand3@gmail.com) 
 # 📊 GitHub Stats:
