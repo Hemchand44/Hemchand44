@@ -5,15 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2g2ZXg2MTF2ZjJuODFyODRzaGxoZm51YnEzNWdpbGg5NjRuemdyOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)" width="400"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
-✨ Passionate about crafting **scalable web applications** and **solving complex coding problems**.  
-🔥 Strong expertise in **JavaScript, React, Node.js, MongoDB, and DSA**.  
-⚡ Always striving to write **clean, maintainable, and high-performance code**.  
+🎓 I'm a college student passionate about building full-stack web applications with modern technologies.  
+🚀 I enjoy working on real-world projects that solve everyday problems, and I'm constantly learning and experimenting with new tools to improve my skills.
 
 ---
 
@@ -37,42 +36,34 @@
 ### 🛠️ Version Control & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control Tools" />
-</p>
-
-### 💡 Problem Solving  
-✅ **1000+ DSA Problems** solved across **arrays, linked lists, stacks, recursion, BST, dynamic programming, and more**!  
+</p> 
 
 ---
 
-## 🌟 What I'm Exploring Right Now  
-🚀 **Advanced React** – state management, performance tuning, component reusability  
-⚙️ **Backend Optimizations** – database indexing, caching strategies, API security  
+## 🌟 currently working on- 
+🚀 **React** – state management, Hooks, component reusability  
+⚙️ **Backend** – database indexing, API security  
 🌍 **New Web Tech** – keeping up with cutting-edge trends in the dev world  
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VanshNigam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hemchand44&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshNigam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemchand44&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VanshNigam&theme=tokyonight&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hemchand44&theme=tokyonight&column=7" alt="Trophies" />
 </p>
 
 ---
 
-## 📬 Let's Connect  
-💌 **Email**: [VANSHNIGAM8081432513@GMAIL.COM](mailto:VANSHNIGAM8081432513@GMAIL.COM)  
-🔗 **LinkedIn**: [Vansh Nigam](https://www.linkedin.com/in/vansh-nigam-926302250/)  
-💻 **GitHub**: [@VanshNigam](https://github.com/VanshNigam)  
+## 📬 Connect me-  
+💌 **Email**: [prajapatihemchand3@gmail.com](mailto:prajapatihemchand3@gmail.com)  
+🔗 **LinkedIn**: [Hemchand](www.linkedin.com/in/hemchand-prajapati70)  
+💻 **GitHub**: [@Hemchand44](https://github.com/Hemchand44)  
 
-🚀 **Let's build something extraordinary together!**  
-
----
-
-✨ **Like my work? Drop a star ⭐ on my repositories!**  
