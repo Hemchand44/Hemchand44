@@ -1,20 +1,78 @@
-## Hey there I'm Hemchand
+<h1 align="center">Hey there, I'm Hemchand! 👋🚀</h1>
 
-# 💫 About Me:
-🎓 passionate about building full-stack web applications with modern technologies<br>🚀 I enjoy working on real-world projects that solve everyday problems
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Problem+Solver+%7C+MERN+Stack+Enthusiast;1000%2B+DSA+Problems+Solved;Always+Learning%2C+Always+Building!">
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hemchand) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajapatihemchand3@gmail.com) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hemchand44&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hemchand44&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemchand44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hemchand44&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me  
+✨ Passionate about crafting **scalable web applications** and **solving complex coding problems**.  
+🔥 Strong expertise in **JavaScript, React, Node.js, MongoDB, and DSA**.  
+⚡ Always striving to write **clean, maintainable, and high-performance code**.  
+
+---
+
+## 🛠️ Tech Stack & Skills  
+
+### 🚀 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" alt="Frontend Tech Stack" />
+</p>
+
+### 🛠 Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Tech Stack" />
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Tech Stack" />
+</p>
+
+### 🛠️ Version Control & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control Tools" />
+</p>
+
+### 💡 Problem Solving  
+✅ **1000+ DSA Problems** solved across **arrays, linked lists, stacks, recursion, BST, dynamic programming, and more**!  
+
+---
+
+## 🌟 What I'm Exploring Right Now  
+🚀 **Advanced React** – state management, performance tuning, component reusability  
+⚙️ **Backend Optimizations** – database indexing, caching strategies, API security  
+🌍 **New Web Tech** – keeping up with cutting-edge trends in the dev world  
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VanshNigam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshNigam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VanshNigam&theme=tokyonight&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 📬 Let's Connect  
+💌 **Email**: [VANSHNIGAM8081432513@GMAIL.COM](mailto:VANSHNIGAM8081432513@GMAIL.COM)  
+🔗 **LinkedIn**: [Vansh Nigam](https://www.linkedin.com/in/vansh-nigam-926302250/)  
+💻 **GitHub**: [@VanshNigam](https://github.com/VanshNigam)  
+
+🚀 **Let's build something extraordinary together!**  
+
+---
+
+✨ **Like my work? Drop a star ⭐ on my repositories!**  
