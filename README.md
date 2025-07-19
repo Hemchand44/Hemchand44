@@ -56,14 +56,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hemchand44&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hemchand44&theme=tokyonight&column=7" alt="Trophies" />
-</p>
 
 ---
 
 ## 📬 Connect me-  
 💌 **Email**: [prajapatihemchand3@gmail.com](mailto:prajapatihemchand3@gmail.com)  
-🔗 **LinkedIn**: [Hemchand](www.linkedin.com/in/hemchand-prajapati70/)  
+🔗 **LinkedIn**: [Hemchand]([www.linkedin.com/in/hemchand-prajapati70/](https://www.linkedin.com/in/hemchand-prajapati70/))  
 💻 **GitHub**: [@Hemchand44](https://github.com/Hemchand44)  
 
