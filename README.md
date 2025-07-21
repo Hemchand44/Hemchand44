@@ -1,5 +1,9 @@
 <h1 align="center">Hey there, I'm Hemchand! 👋🚀</h1>
 
+<div align="center">
+  <img src="https://anujer.is-a.dev/banner-github.gif" alt="Coding Animation" width="100%" height="420" style="object-fit: cover;">
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Problem+Solver+%7C+MERN+Stack+Enthusiast;1000%2B+DSA+Problems+Solved;Always+Learning%2C+Always+Building!">
 </p>
