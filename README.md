@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Hemchand! 👋🚀</h1>
 
 <div align="center">
-  <img src="https://anujer.is-a.dev/banner-github.gif" alt="Coding Animation" width="100%" height="420" style="object-fit: cover;">
+  <img src="[https://anujer.is-a.dev/banner-github.gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)" alt="Coding Animation" width="100%" height="420" style="object-fit: cover;">
 </div>
 
 <p align="center">
